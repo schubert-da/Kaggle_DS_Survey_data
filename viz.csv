@@ -1,0 +1,14 @@
+name,parent,value
+Origin,,
+Matplotlib,Origin,6255
+Seaborn,Origin,4634
+Plotly,Origin,2585
+Ggplot,Origin,2513
+Shiny,Origin,872
+D3,Origin,592
+Altair,Origin,165
+Bokeh,Origin,625
+Geoplotlib,Origin,510
+Leaflet,Origin,403
+None,Origin,663
+Other,Origin,360
